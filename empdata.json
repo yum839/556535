@@ -2,11 +2,11 @@
   "data": [
     {
       "name": "James Bond",
-      "email": "james@seattleu.edu"
-    },
-    {
-      "name": "Brielle Williamson",
-      "email": "brielle@seattleu.edu"
-     }
+      "designation": "Accountant",
+      "salary": "$170,750",
+      "joining_date": "2011/07/25",
+      "office": "Tokyo",
+      "extension": "8422"
+    }
   ]
 }
