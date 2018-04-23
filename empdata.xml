@@ -3,7 +3,7 @@
     <data>
       <name>Li Ba</name>
       <email>liba@seattleu.edu</email>
-      <salary>$170,750</salary>
+      <phone_number>$170,750</phone_number>
       <joining_date>2011/07/25</joining_date>
       <office>Tokyo</office>
       <extension>8422</extension>
@@ -11,7 +11,7 @@
     <data>
       <name>Jeremy Chow</name>
       <email>jeremychow@seattleu.edu</email>
-      <salary>$372,000</salary>
+      <phone_number>$372,000</phone_number>
       <joining_date>2012/12/02</joining_date>
       <office>New York</office>
       <extension>4804</extension>
@@ -19,7 +19,7 @@
     <data>
       <name>Nico Cordeiro</name>
       <email>nicocordeiro@seattleu.edu</email>
-      <salary>$86,000</salary>
+      <phone_number>$86,000</phone_number>
       <joining_date>2009/01/12</joining_date>
       <office>San Francisco</office>
       <extension>1562</extension>
@@ -27,7 +27,7 @@
     <data>
       <name>Caleb Herrera</name>
       <email>calebherrera@seattleu.edu</email>
-      <salary>$162,700</salary>
+      <phone_number>$162,700</phone_number>
       <joining_date>2008/11/28</joining_date>
       <office>Tokyo</office>
       <extension>5407</extension>
@@ -35,7 +35,7 @@
     <data>
       <name>Jui Hsuan Hsu</name>
       <email>juihsuanhsu@seattleu.edu</email>
-      <salary>$106,450</salary>
+      <phone_number>$106,450</phone_number>
       <joining_date>2011/12/12</joining_date>
       <office>New York</office>
       <extension>8330</extension>
@@ -43,7 +43,7 @@
     <data>
       <name>Zhaofeng Hu</name>
       <email>zhaofenghu@seattleu.edu</email>
-      <salary>$183,000</salary>
+      <phone_number>$183,000</phone_number>
       <joining_date>2008/11/13</joining_date>
       <office>Edinburgh</office>
       <extension>6373</extension>
@@ -51,7 +51,7 @@
     <data>
       <name>Liyun Huang</name>
       <email>liyunhuang@seattleu.edu</email>
-      <salary>$433,060</salary>
+      <phone_number>$433,060</phone_number>
       <joining_date>2012/03/29</joining_date>
       <office>Edinburgh</office>
       <extension>6224</extension>
@@ -59,7 +59,7 @@
     <data>
       <name>Lanie Mun</name>
       <email>laniemun@seattleu.edu</email>
-      <salary>$313,500</salary>
+      <phone_number>$313,500</phone_number>
       <joining_date>2012/12/18</joining_date>
       <office>London</office>
       <extension>3597</extension>
@@ -67,7 +67,7 @@
     <data>
       <name>Baojing Shi</name>
       <email>baojingshi@seattleu.edu</email>
-      <salary>$205,500</salary>
+      <phone_number>$205,500</phone_number>
       <joining_date>2009/09/15</joining_date>
       <office>San Francisco</office>
       <extension>2360</extension>
@@ -75,7 +75,7 @@
     <data>
       <name>Randal Shilot</name>
       <email>randalshilot@seattleu.edu</email>
-      <salary>$217,500</salary>
+      <phone_number>$217,500</phone_number>
       <joining_date>2012/09/26</joining_date>
       <office>Edinburgh</office>
       <extension>2290</extension>
@@ -83,7 +83,7 @@
     <data>
       <name>Qiyu Ye</name>
       <email>qiyuye@seattleu.edu</email>
-      <salary>$137,500</salary>
+      <phone_number>$137,500</phone_number>
       <joining_date>2012/08/06</joining_date>
       <office>San Francisco</office>
       <extension>9608</extension>
@@ -91,7 +91,7 @@
     <data>
       <name>Yue Zheng</name>
       <email>yuezheng@seattleu.edu</email>
-      <salary>$327,900</salary>
+      <phone_number>$327,900</phone_number>
       <joining_date>2010/10/14</joining_date>
       <office>Tokyo</office>
       <extension>6200</extension>
@@ -99,7 +99,7 @@
     <data>
       <name>Yuze Zhuang</name>
       <email>yuezezhuang@seattleu.edu</email>
-      <salary>$103,600</salary>
+      <phone_number>$103,600</phone_number>
       <joining_date>2008/12/13</joining_date>
       <office>Edinburgh</office>
       <extension>1667</extension>
