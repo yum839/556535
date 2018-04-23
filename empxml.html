@@ -18,12 +18,12 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
-                $(this).find('name').text(),
+                $(this).find('Name').text(),
                 $(this).find('Email').text(),
-                $(this).find('phone_number').text(),
-                $(this).find('university').text(),
-                $(this).find('ssn').text(),
-                $(this).find('home').text()
+                $(this).find('Phone_Number').text(),
+                $(this).find('University').text(),
+                $(this).find('SSN').text(),
+                $(this).find('Home').text()
               ] ).draw( false );
              });
             }
@@ -38,10 +38,10 @@
         <tr>
             <th>Name</th>
             <th>Email</th>
-            <th>phone number</th>
-            <th>university</th>
-            <th>ssn</th>
-            <th>home</th>
+            <th>Phone Number</th>
+            <th>University</th>
+            <th>SSN</th>
+            <th>Home</th>
         </tr>
     </thead>
 
@@ -49,10 +49,10 @@
         <tr>
             <th>Name</th>
             <th>Email</th>
-            <th>phone number</th>
-            <th>university</th>
-            <th>ssn</th>
-            <th>home</th>
+            <th>Phone Number</th>
+            <th>University</th>
+            <th>SSN</th>
+            <th>Home</th>
         </tr>
     </tfoot>
   </table>

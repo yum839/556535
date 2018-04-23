@@ -12,20 +12,20 @@
             <tr>
                 <th>Name</th>
                 <th>Email</th>
-                <th>phone number</th>
-                <th>university</th>
-                <th>ssn</th>
-                <th>home</th>
+                <th>Phone Number</th>
+                <th>University</th>
+                <th>SSN</th>
+                <th>Home</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
                 <th>Name</th>
                 <th>Email</th>
-                <th>phone number</th>
-                <th>university</th>
-                <th>ssn</th>
-                <th>home</th>
+                <th>Phone Number</th>
+                <th>University</th>
+                <th>SSN</th>
+                <th>Home</th>
             </tr>
         </tfoot>
     </table>
@@ -40,12 +40,12 @@
         $('#empTable').dataTable({
             "ajax": "empdata.json",
             "columns": [
-                {"data": "name"},
+                {"data": "Name"},
                 {"data": "Email"},
-                {"data": "phone number"},
-                {"data": "university"},
-                {"data": "ssn"},
-                {"data": "home"}
+                {"data": "Phone Number"},
+                {"data": "University"},
+                {"data": "SSN"},
+                {"data": "Home"}
             ]
         });   
     });

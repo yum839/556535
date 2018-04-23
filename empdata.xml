@@ -1,107 +1,107 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <name>Li Ba</name>
+      <Name>Li Ba</Name>
       <Email>liba@seattleu.edu</Email>
-      <phone_number>8131119643</phone_number>
-      <ssn>111-22-3333</ssn>
-      <home>bellevue</home>
-      <university>seattle university</university>
+      <Phone_Number>8131119643</Phone_Number>
+      <SSN>111-22-3333</SSN>
+      <Home>Bellevue</Home>
+      <University>Seattle University</University>
     </data>
     <data>
-      <name>Jeremy Chow</name>
+      <Name>Jeremy Chow</Name>
       <Email>jeremychow@seattleu.edu</Email>
-      <phone_number>8132227842</phone_number>
-      <ssn>222-11-5555</ssn>
-      <home>bellevue</home>
-      <university>seattle university</university>
+      <Phone_Number>8132227842</Phone_Number>
+      <SSN>222-11-5555</SSN>
+      <Home>Bellevue</Home>
+      <University>Seattle University</University>
     </data>
     <data>
-      <name>Nico Cordeiro</name>
+      <Name>Nico Cordeiro</Name>
       <Email>nicocordeiro@seattleu.edu</Email>
-      <phone_number>8133337451</phone_number>
-      <ssn>333-11-2222</ssn>
-      <home>bellevue</home>
-      <university>seattle university</university>
+      <Phone_Number>8133337451</Phone_Number>
+      <SSN>333-11-2222</SSN>
+      <Home>Bellevue</Home>
+      <University>Seattle University</University>
     </data>
     <data>
-      <name>Caleb Herrera</name>
+      <Name>Caleb Herrera</Name>
       <Email>calebherrera@seattleu.edu</Email>
-      <phone_number>8134447463</phone_number>
-      <ssn>555-22-3333</ssn>
-      <home>bellevue</home>
-      <university>seattle university</university>
+      <Phone_Number>8134447463</Phone_Number>
+      <SSN>555-22-3333</SSN>
+      <Home>Bellevue</Home>
+      <University>Seattle University</University>
     </data>
     <data>
-      <name>Jui Hsuan Hsu</name>
+      <Name>Jui Hsuan Hsu</Name>
       <Email>juihsuanhsu@seattleu.edu</Email>
-      <phone_number>8135559863</phone_number>
-      <ssn>666-55-8975</ssn>
-      <home>kirkland</home>
-      <university>seattle university</university>
+      <Phone_Number>8135559863</Phone_Number>
+      <SSN>666-55-8975</SSN>
+      <Home>kirkland</Home>
+      <University>Seattle University</University>
     </data>
     <data>
-      <name>Zhaofeng Hu</name>
+      <Name>Zhaofeng Hu</Name>
       <Email>zhaofenghu@seattleu.edu</Email>
-      <phone_number>8136667884</phone_number>
-      <ssn>888-77-6341</ssn>
-      <home>kirkland</home>
-      <university>seattle university</university>
+      <Phone_Number>8136667884</Phone_Number>
+      <SSN>888-77-6341</SSN>
+      <Home>Kirkland</Home>
+      <University>Seattle University</University>
     </data>
     <data>
-      <name>Liyun Huang</name>
+      <Name>Liyun Huang</Name>
       <Email>liyunhuang@seattleu.edu</Email>
-      <phone_number>8137778993</phone_number>
-      <ssn>999-88-6425</ssn>
-      <home>kirkland</home>
-      <university>seattle university</university>
+      <Phone_Number>8137778993</Phone_Number>
+      <SSN>999-88-6425</SSN>
+      <Home>Kirkland</Home>
+      <University>Seattle University</University>
     </data>
     <data>
-      <name>Lanie Mun</name>
+      <Name>Lanie Mun</Name>
       <Email>laniemun@seattleu.edu</Email>
-      <phone_number>8138884554</phone_number>
-      <ssn>485-96-4561</ssn>
-      <home>kirkland</home>
-      <university>seattle university</university>
+      <Phone_Number>8138884554</Phone_Number>
+      <SSN>485-96-4561</SSN>
+      <Home>Kirkland</Home>
+      <University>Seattle University</University>
     </data>
     <data>
-      <name>Baojing Shi</name>
+      <Name>Baojing Shi</Name>
       <Email>baojingshi@seattleu.edu</Email>
-      <phone_number>8139997412</phone_number>
-      <ssn>354-96-4751</ssn>
-      <home>renton</home>
-      <university>seattle university</university>
+      <Phone_Number>8139997412</Phone_Number>
+      <SSN>354-96-4751</SSN>
+      <Home>Renton</Home>
+      <University>Seattle University</University>
     </data>
     <data>
-      <name>Randal Shilot</name>
+      <Name>Randal Shilot</Name>
       <Email>randalshilot@seattleu.edu</Email>
-      <phone_number>8130004636</phone_number>
-      <ssn>965-78-3545</ssn>
-      <home>renton</home>
-      <university>seattle university</university>
+      <Phone_Number>8130004636</Phone_Number>
+      <SSN>965-78-3545</SSN>
+      <Home>Renton</Home>
+      <University>Seattle University</University>
     </data>
     <data>
-      <name>Qiyu Ye</name>
+      <Name>Qiyu Ye</Name>
       <Email>qiyuye@seattleu.edu</Email>
-      <phone_number>8131215656</phone_number>
-      <ssn>986-74-7485</ssn>
-      <home>renton</home>
-      <university>seattle university</university>
+      <Phone_Number>8131215656</Phone_Number>
+      <SSN>986-74-7485</SSN>
+      <Home>Renton</Home>
+      <University>Seattle University</University>
     </data>
     <data>
-      <name>Yue Zheng</name>
+      <Name>Yue Zheng</Name>
       <Email>yuezheng@seattleu.edu</Email>
-      <phone_number>8131237895</phone_number>
-      <ssn>938-95-7956</ssn>
-      <home>renton</home>
-      <university>seattle university</university>
+      <Phone_Number>8131237895</Phone_Number>
+      <SSN>938-95-7956</SSN>
+      <Home>Renton</Home>
+      <University>Seattle University</University>
     </data>
     <data>
-      <name>Yuze Zhuang</name>
+      <Name>Yuze Zhuang</Name>
       <Email>yuezezhuang@seattleu.edu</Email>
-      <phone_number>8133219874</phone_number>
-      <ssn>341-33-9178</ssn>
-      <home>lake city</home>
-      <university>seattle university</university>
+      <Phone_Number>8133219874</Phone_Number>
+      <SSN>341-33-9178</SSN>
+      <Home>Lake City</Home>
+      <University>Seattle University</University>
     </data>
   </employees>
