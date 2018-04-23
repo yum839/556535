@@ -4,104 +4,104 @@
       <name>Li Ba</name>
       <email>liba@seattleu.edu</email>
       <phone_number>8131119643</phone_number>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <ssn>111-22-3333</ssn>
+      <home>bellevue</home>
+      <university>seattle university</university>
     </data>
     <data>
       <name>Jeremy Chow</name>
       <email>jeremychow@seattleu.edu</email>
       <phone_number>8132227842</phone_number>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <ssn>222-11-5555</ssn>
+      <home>bellevue</home>
+      <university>seattle university</university>
     </data>
     <data>
       <name>Nico Cordeiro</name>
       <email>nicocordeiro@seattleu.edu</email>
       <phone_number>8133337451</phone_number>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <ssn>333-11-2222</ssn>
+      <home>bellevue</home>
+      <university>seattle university</university>
     </data>
     <data>
       <name>Caleb Herrera</name>
       <email>calebherrera@seattleu.edu</email>
       <phone_number>8134447463</phone_number>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <ssn>555-22-3333</ssn>
+      <home>bellevue</home>
+      <university>seattle university</university>
     </data>
     <data>
       <name>Jui Hsuan Hsu</name>
       <email>juihsuanhsu@seattleu.edu</email>
       <phone_number>8135559863</phone_number>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <ssn>666-55-8975</ssn>
+      <home>kirkland</home>
+      <university>seattle university</university>
     </data>
     <data>
       <name>Zhaofeng Hu</name>
       <email>zhaofenghu@seattleu.edu</email>
       <phone_number>8136667884</phone_number>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <ssn>888-77-6341</ssn>
+      <home>kirkland</home>
+      <university>seattle university</university>
     </data>
     <data>
       <name>Liyun Huang</name>
       <email>liyunhuang@seattleu.edu</email>
       <phone_number>8137778993</phone_number>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <ssn>999-88-6425</ssn>
+      <home>kirkland</home>
+      <university>seattle university</university>
     </data>
     <data>
       <name>Lanie Mun</name>
       <email>laniemun@seattleu.edu</email>
       <phone_number>8138884554</phone_number>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <ssn>485-96-4561</ssn>
+      <home>kirkland</home>
+      <university>seattle university</university>
     </data>
     <data>
       <name>Baojing Shi</name>
       <email>baojingshi@seattleu.edu</email>
       <phone_number>8139997412</phone_number>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <ssn>354-96-4751</ssn>
+      <home>renton</home>
+      <university>seattle university</university>
     </data>
     <data>
       <name>Randal Shilot</name>
       <email>randalshilot@seattleu.edu</email>
       <phone_number>8130004636</phone_number>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <ssn>965-78-3545</ssn>
+      <home>renton</home>
+      <university>seattle university</university>
     </data>
     <data>
       <name>Qiyu Ye</name>
       <email>qiyuye@seattleu.edu</email>
       <phone_number>8131215656</phone_number>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <ssn>986-74-7485</ssn>
+      <home>renton</home>
+      <university>seattle university</university>
     </data>
     <data>
       <name>Yue Zheng</name>
       <email>yuezheng@seattleu.edu</email>
       <phone_number>8131237895</phone_number>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+      <ssn>938-95-7956</ssn>
+      <home>renton</home>
+      <university>seattle university</university>
     </data>
     <data>
       <name>Yuze Zhuang</name>
       <email>yuezezhuang@seattleu.edu</email>
       <phone_number>8133219874</phone_number>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
+      <ssn>341-33-9178</ssn>
+      <home>lake city</home>
+      <university>seattle university</university>
     </data>
   </employees>
