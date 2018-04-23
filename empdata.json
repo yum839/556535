@@ -2,7 +2,7 @@
   "data": [
     {
       "name": "Li Ba",
-      "email": "liba@seattleu.edu",
+      "Email": "liba@seattleu.edu",
       "phone number": "8131119643",
       "ssn": "111-22-3333",
       "home": "bellevue",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Jeremy Chow",
-      "email": "jeremychow@seattleu.edu",
+      "Email": "jeremychow@seattleu.edu",
       "phone number": "8132227842",
       "ssn": "222-11-5555",
       "home": "bellevue",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Nico Cordeiro",
-      "email": "nicocordeiro@seattleu.edu",
+      "Email": "nicocordeiro@seattleu.edu",
       "phone number": "8133337451",
       "ssn": "333-11-2222",
       "home": "bellevue",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Caleb Herrera",
-      "email": "calebherrera@seattleu.edu",
+      "Email": "calebherrera@seattleu.edu",
       "phone number": "8134447463",
       "ssn": "555-22-3333",
       "home": "bellevue",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Jui Hsuan Hsu",
-      "email": "juihsuanhsu@seattleu.edu",
+      "Email": "juihsuanhsu@seattleu.edu",
       "phone number": "8135559863",
       "ssn": "666-55-8975",
       "home": "kirkland",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Zhaofeng Hu",
-      "email": "zhaofenghu@seattleu.edu",
+      "Email": "zhaofenghu@seattleu.edu",
       "phone number": "8136667884",
       "ssn": "888-77-6341",
       "home": "kirkland",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Liyun Huang",
-      "email": "liyunhuang@seattleu.edu",
+      "Email": "liyunhuang@seattleu.edu",
       "phone number": "8137778993",
       "ssn": "999-88-6425",
       "home": "kirkland",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Lanie Mun",
-      "email": "laniemun@seattleu.edu",
+      "Email": "laniemun@seattleu.edu",
       "phone number": "8138884554",
       "ssn": "485-96-4561",
       "home": "kirkland",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Baojing Shi",
-      "email": "baojingshi@seattleu.edu",
+      "Email": "baojingshi@seattleu.edu",
       "phone number": "8139997412",
       "ssn": "354-96-4751",
       "home": "renton",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Randal Shilot",
-      "email": "randalshilot@seattleu.edu",
+      "Email": "randalshilot@seattleu.edu",
       "phone number": "8130004636",
       "ssn": "965-78-3545",
       "home": "renton",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Qiyu Ye",
-      "email": "qiyuye@seattleu.edu",
+      "Email": "qiyuye@seattleu.edu",
       "phone number": "8131215656",
       "ssn": "986-74-7485",
       "home": "renton",
@@ -90,7 +90,7 @@
     },
     {
       "name": "Yue Zheng",
-      "email": "yuezheng@seattleu.edu",
+      "Email": "yuezheng@seattleu.edu",
       "phone number": "8131237895",
       "ssn": "938-95-7956",
       "home": "renton",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Yuze Zhuang",
-      "email": "yuezezhuang@seattleu.edu",
+      "Email": "yuezezhuang@seattleu.edu",
       "phone number": "8133219874",
       "ssn": "341-33-9178",
       "home": "lake city",
